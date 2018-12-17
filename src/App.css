@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.day-name, .day-block {
+    width: 14.2857142857%;
+}
+
+.card-header {
+    padding: 10px 0;
+    background:#428bca;
+}
+
+.day-name {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.month, .card-header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.day-block {
+    height: 100px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.day-block.blank {
+    background: lightgray;
+    cursor: not-allowed;
+}
+
+.day-reminders {
+    max-height: 74px;
+    overflow: auto;
+}
+
+.day-reminder {
+    border-radius: 20px;
+    padding: 0 10px;
+    margin: 2px 5px;
+    color: white;
+}
+
+.day-block span {
+    margin: 5px;
+}
+
+.ReactModal__Overlay {
+    background: rgba(0,0,0, 0.75) !important;
+    cursor: pointer;
+}
+
+.reminder-modal {
+    position: absolute;
+    cursor: default;
+    top: 10%;
+    left: 25%;
+    width: 50%;
+    background: white;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.delete {
+    cursor: pointer;
+}
