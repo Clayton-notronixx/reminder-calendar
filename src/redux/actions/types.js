@@ -1,5 +1,0 @@
-export const CalendarActionTypes = {
-    DATES_BY_MONTH: "DATES_BY_MONTH",
-    ADD_REMINDER: "ADD_REMINDER",
-    REMOVE_REMINDER: "REMOVE_REMINDER",
-}
