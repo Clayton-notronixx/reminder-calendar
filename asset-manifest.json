@@ -1,13 +1,13 @@
 {
-  "main.css": "/reminder-calendar/build/static/css/main.9924b4cf.chunk.css",
-  "main.js": "/reminder-calendar/build/static/js/main.fdaddc5d.chunk.js",
-  "main.js.map": "/reminder-calendar/build/static/js/main.fdaddc5d.chunk.js.map",
-  "static/js/1.840002f2.chunk.js": "/reminder-calendar/build/static/js/1.840002f2.chunk.js",
-  "static/js/1.840002f2.chunk.js.map": "/reminder-calendar/build/static/js/1.840002f2.chunk.js.map",
-  "runtime~main.js": "/reminder-calendar/build/static/js/runtime~main.4e307048.js",
-  "runtime~main.js.map": "/reminder-calendar/build/static/js/runtime~main.4e307048.js.map",
-  "static/css/main.9924b4cf.chunk.css.map": "/reminder-calendar/build/static/css/main.9924b4cf.chunk.css.map",
-  "index.html": "/reminder-calendar/build/index.html",
-  "precache-manifest.83a7b1da94fcb3b6f6adce0efe8e430d.js": "/reminder-calendar/build/precache-manifest.83a7b1da94fcb3b6f6adce0efe8e430d.js",
-  "service-worker.js": "/reminder-calendar/build/service-worker.js"
+  "main.css": "/reminder-calendar/static/css/main.9924b4cf.chunk.css",
+  "main.js": "/reminder-calendar/static/js/main.0bb43ea5.chunk.js",
+  "main.js.map": "/reminder-calendar/static/js/main.0bb43ea5.chunk.js.map",
+  "static/js/1.840002f2.chunk.js": "/reminder-calendar/static/js/1.840002f2.chunk.js",
+  "static/js/1.840002f2.chunk.js.map": "/reminder-calendar/static/js/1.840002f2.chunk.js.map",
+  "runtime~main.js": "/reminder-calendar/static/js/runtime~main.f22f5a09.js",
+  "runtime~main.js.map": "/reminder-calendar/static/js/runtime~main.f22f5a09.js.map",
+  "static/css/main.9924b4cf.chunk.css.map": "/reminder-calendar/static/css/main.9924b4cf.chunk.css.map",
+  "index.html": "/reminder-calendar/index.html",
+  "precache-manifest.aae19cbf8db97353197a6693c4c26c41.js": "/reminder-calendar/precache-manifest.aae19cbf8db97353197a6693c4c26c41.js",
+  "service-worker.js": "/reminder-calendar/service-worker.js"
 }

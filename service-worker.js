@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reminder-calendar/build/precache-manifest.83a7b1da94fcb3b6f6adce0efe8e430d.js"
+  "/reminder-calendar/precache-manifest.aae19cbf8db97353197a6693c4c26c41.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/reminder-calendar/build/index.html", {
+workbox.routing.registerNavigationRoute("/reminder-calendar/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
